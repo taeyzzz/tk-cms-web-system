@@ -27,6 +27,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
+    "strapi-provider-upload-cloudinary": "^3.0.0-alpha.15",
     "strapi-provider-upload-local": "3.0.0-alpha.26.2",
     "strapi-utils": "3.0.0-alpha.26.2",
     "stream-to-array": "^2.3.0",
